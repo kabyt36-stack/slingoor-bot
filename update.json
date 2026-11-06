@@ -1,7 +1,7 @@
 {
- "version": "1.2.2",
- "zip": "releases/slingoor-tracker-1.2.2.zip",
- "sha256": "176ae2285ee3e53dbe23df30ac771a7bdad90d70b9fdd281562be5b5d5b8d423",
- "notes": "Faster: sees his trades ~0.3s sooner (processed stream on Helius). Also fixes the live stream when the Helius link is in RPC_URL.",
- "publishedAt": "2026-11-06T18:54:47.681Z"
+ "version": "1.2.3",
+ "zip": "releases/slingoor-tracker-1.2.3.zip",
+ "sha256": "e9f4aac3753049efddc3e4d8820ec7b447c8e6e8f7a9c02e0674b55fc8572b52",
+ "notes": "Faster copy buys on his routed trades (Jupiter/PumpSwap): the buy is now built while the new-coin check runs, ~0.3s quicker.",
+ "publishedAt": "2026-11-06T19:36:20.093Z"
 }
