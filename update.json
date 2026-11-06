@@ -1,7 +1,7 @@
 {
- "version": "1.2.4",
- "zip": "releases/slingoor-tracker-1.2.4.zip",
- "sha256": "83b583a4471963f3528db9d0a879385468ec0f6c962c120bbf04bdf0d2eaae37",
- "notes": "Ready for a free Jupiter key: paces itself to the free plan's limit (1 request/second) so buys never hit Jupiter's rate limit.",
- "publishedAt": "2026-11-06T19:56:23.056Z"
+ "version": "1.2.5",
+ "zip": "releases/slingoor-tracker-1.2.5.zip",
+ "sha256": "d239926c843ea25898a071bf69dc50ce264921d30dfcc5f2ba15a9d67f153fa2",
+ "notes": "Copies his re-entries: any coin he held none of right before buying is copied (even if he traded it days ago). Adds to a bag he's holding are still skipped. Buys also ~0.03s faster.",
+ "publishedAt": "2026-11-06T20:27:32.848Z"
 }
