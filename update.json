@@ -1,7 +1,7 @@
 {
- "version": "1.1.1",
- "zip": "releases/slingoor-tracker-1.1.1.zip",
- "sha256": "2b1554faf544611ed52a14c24a36d38d052a7fb52b4b5e98fa05c3fcb284bb1c",
- "notes": "Copy trading only buys his NEW entries: adds to coins he already held (that we didn't buy with him) are no longer copied.",
- "publishedAt": "2026-11-06T03:23:50.531Z"
+ "version": "1.1.3",
+ "zip": "releases/slingoor-tracker-1.1.3.zip",
+ "sha256": "3cc619bc811e3e45f58bda5559798bc9d2aa8f814ce4f2ee8c7bb4a55576bd23",
+ "notes": "Bags fallback: when pump.fun blocks the bag list (Cloudflare 403), his bags are read from the chain instead. Also fixed a wrong Token-2022 address.",
+ "publishedAt": "2026-11-06T03:52:12.160Z"
 }
