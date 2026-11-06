@@ -1,7 +1,7 @@
 {
- "version": "1.1.7",
- "zip": "releases/slingoor-tracker-1.1.7.zip",
- "sha256": "bc3d9bdd395e1990dc1794ee163e2129a4fb66b08778209e7f519a1b505f89e5",
- "notes": "Keeps the Mac awake while plugged in, and tells you in Telegram whenever the bot was asleep/off (with times) so you know what it missed.",
- "publishedAt": "2026-11-06T13:05:15.299Z"
+ "version": "1.1.8",
+ "zip": "releases/slingoor-tracker-1.1.8.zip",
+ "sha256": "47d9a4714887b2dac928d752ea02438cd7f3729fcd1a535c94bf17d9734777b1",
+ "notes": "Gets back ~0.002 SOL per coin: after the bot sells out of a coin, its empty token account is closed and the rent returns to your wallet.",
+ "publishedAt": "2026-11-06T13:23:07.801Z"
 }
