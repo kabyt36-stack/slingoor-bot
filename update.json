@@ -1,7 +1,7 @@
 {
- "version": "1.2.3",
- "zip": "releases/slingoor-tracker-1.2.3.zip",
- "sha256": "e9f4aac3753049efddc3e4d8820ec7b447c8e6e8f7a9c02e0674b55fc8572b52",
- "notes": "Faster copy buys on his routed trades (Jupiter/PumpSwap): the buy is now built while the new-coin check runs, ~0.3s quicker.",
- "publishedAt": "2026-11-06T19:36:20.093Z"
+ "version": "1.2.4",
+ "zip": "releases/slingoor-tracker-1.2.4.zip",
+ "sha256": "83b583a4471963f3528db9d0a879385468ec0f6c962c120bbf04bdf0d2eaae37",
+ "notes": "Ready for a free Jupiter key: paces itself to the free plan's limit (1 request/second) so buys never hit Jupiter's rate limit.",
+ "publishedAt": "2026-11-06T19:56:23.056Z"
 }
