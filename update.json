@@ -1,7 +1,7 @@
 {
- "version": "1.1.6",
- "zip": "releases/slingoor-tracker-1.1.6.zip",
- "sha256": "2ec7635d6dd066c6cdfd1b8f87d6544a55a43a34c2ec32b4d0ad0ce6fbfe9120",
- "notes": "pump.fun removed: everything now comes from the chain, DexScreener and Helius (no more Cloudflare errors). Callouts are off.",
- "publishedAt": "2026-11-06T05:03:06.328Z"
+ "version": "1.1.7",
+ "zip": "releases/slingoor-tracker-1.1.7.zip",
+ "sha256": "bc3d9bdd395e1990dc1794ee163e2129a4fb66b08778209e7f519a1b505f89e5",
+ "notes": "Keeps the Mac awake while plugged in, and tells you in Telegram whenever the bot was asleep/off (with times) so you know what it missed.",
+ "publishedAt": "2026-11-06T13:05:15.299Z"
 }
