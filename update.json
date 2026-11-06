@@ -1,7 +1,7 @@
 {
- "version": "1.2.6",
- "zip": "releases/slingoor-tracker-1.2.6.zip",
- "sha256": "a46212e6dcb048f43ceef175efedb82b700e2fd049c2cebce8694b745c00a28a",
- "notes": "Back to brand-new coins only (re-buys of coins he traded before are skipped; COPY_REENTRIES=on to change). New: a Telegram alert every time the bot skips one of his buys, with the reason.",
- "publishedAt": "2026-11-06T20:49:33.929Z"
+ "version": "1.2.7",
+ "zip": "releases/slingoor-tracker-1.2.7.zip",
+ "sha256": "7faa7d89b704487f8da35190b5d5ab4b6ec39588066e1798d68b6d0928f42e8a",
+ "notes": "One buy per coin: no double buys when he buys in bursts, no adds, and no buying back into a coin after selling it. Sells and take-profit unchanged.",
+ "publishedAt": "2026-11-06T22:30:13.526Z"
 }
