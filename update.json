@@ -1,0 +1,7 @@
+{
+ "version": "1.1.0",
+ "zip": "releases/slingoor-tracker-1.1.0.zip",
+ "sha256": "2e691fa78d617c5af98eae30eddea7a9eaa4545223aefbc61269746a164228c6",
+ "notes": "Watchdog + auto-update: the bot now restarts itself after crashes/freezes and installs tested updates by itself.",
+ "publishedAt": "2026-11-06T03:17:08.996Z"
+}
