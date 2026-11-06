@@ -1,7 +1,7 @@
 {
- "version": "1.1.8",
- "zip": "releases/slingoor-tracker-1.1.8.zip",
- "sha256": "47d9a4714887b2dac928d752ea02438cd7f3729fcd1a535c94bf17d9734777b1",
- "notes": "Gets back ~0.002 SOL per coin: after the bot sells out of a coin, its empty token account is closed and the rent returns to your wallet.",
- "publishedAt": "2026-11-06T13:23:07.801Z"
+ "version": "1.1.9",
+ "zip": "releases/slingoor-tracker-1.1.9.zip",
+ "sha256": "135fa3b830d0b5b53960385441e6a8842076019eab5492f1c1d2b9f93a5b9f1c",
+ "notes": "Catches his big routed buys faster: when the trade record is cut off (hides pump.fun's event), the bot downloads it right away instead of waiting.",
+ "publishedAt": "2026-11-06T17:05:33.525Z"
 }
