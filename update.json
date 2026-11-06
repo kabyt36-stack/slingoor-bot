@@ -1,7 +1,7 @@
 {
- "version": "1.2.7",
- "zip": "releases/slingoor-tracker-1.2.7.zip",
- "sha256": "7faa7d89b704487f8da35190b5d5ab4b6ec39588066e1798d68b6d0928f42e8a",
- "notes": "One buy per coin: no double buys when he buys in bursts, no adds, and no buying back into a coin after selling it. Sells and take-profit unchanged.",
- "publishedAt": "2026-11-06T22:30:13.526Z"
+ "version": "1.2.9",
+ "zip": "releases/slingoor-tracker-1.2.9.zip",
+ "sha256": "55d45624d49c59a55ffd88c28f1cc24a3d9145ddafa4992cbfcf2faf75e85fe3",
+ "notes": "Take-profit ladder: sells 50% at 2x (your SOL back), then 25% of the rest at 4x, 6x and 8x. Lower fees: normal priority, max 0.0005 SOL a trade (was ~0.002).",
+ "publishedAt": "2026-11-06T22:49:43.391Z"
 }
