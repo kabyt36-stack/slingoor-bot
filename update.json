@@ -1,7 +1,7 @@
 {
- "version": "1.2.0",
- "zip": "releases/slingoor-tracker-1.2.0.zip",
- "sha256": "97c021762b2d87dc4e6f26524fde52d28fff98b403e6b17ba2817f6f428305f4",
- "notes": "Removed the 'chain stream and pump.fun feeds are down' Telegram warning. pump.fun isn't used anymore; if the chain stream ever stalls, the bot quietly restarts itself.",
- "publishedAt": "2026-11-06T17:52:59.706Z"
+ "version": "1.2.1",
+ "zip": "releases/slingoor-tracker-1.2.1.zip",
+ "sha256": "8fd5519fe2ffed77a02df66c16bbafdcd55d736e1e6c8cec80a1c5072b15cba6",
+ "notes": "Fixes the chain stream not connecting when the Helius key was pasted as a full link, and /status now says exactly why the stream can't connect.",
+ "publishedAt": "2026-11-06T18:20:37.021Z"
 }
