@@ -1,7 +1,7 @@
 {
- "version": "1.1.4",
- "zip": "releases/slingoor-tracker-1.1.4.zip",
- "sha256": "f72b119f8aaa3b6b797fe24d7ef1f486dea68687a278d955bdecb1f90b4563fb",
- "notes": "Works while pump.fun blocks your computer: alerts/copy trades from the chain, names from DexScreener/Helius, market cap from the bonding curve. Auto-update fixed for newer Node versions on Mac.",
- "publishedAt": "2026-11-06T04:25:56.523Z"
+ "version": "1.1.5",
+ "zip": "releases/slingoor-tracker-1.1.5.zip",
+ "sha256": "c86ce1f2c5f21d3cd86e7e3d69eaf5c15ca856e327214f549ddb11252ed3b098",
+ "notes": "Only copies his brand-new coins: if he already traded a coin more than 10 min before his buy (checked on the chain), the bot skips it.",
+ "publishedAt": "2026-11-06T04:34:58.887Z"
 }
