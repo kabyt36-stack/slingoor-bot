@@ -1,7 +1,7 @@
 {
- "version": "1.1.5",
- "zip": "releases/slingoor-tracker-1.1.5.zip",
- "sha256": "c86ce1f2c5f21d3cd86e7e3d69eaf5c15ca856e327214f549ddb11252ed3b098",
- "notes": "Only copies his brand-new coins: if he already traded a coin more than 10 min before his buy (checked on the chain), the bot skips it.",
- "publishedAt": "2026-11-06T04:34:58.887Z"
+ "version": "1.1.6",
+ "zip": "releases/slingoor-tracker-1.1.6.zip",
+ "sha256": "2ec7635d6dd066c6cdfd1b8f87d6544a55a43a34c2ec32b4d0ad0ce6fbfe9120",
+ "notes": "pump.fun removed: everything now comes from the chain, DexScreener and Helius (no more Cloudflare errors). Callouts are off.",
+ "publishedAt": "2026-11-06T05:03:06.328Z"
 }
