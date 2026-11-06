@@ -1,7 +1,7 @@
 {
- "version": "1.1.0",
- "zip": "releases/slingoor-tracker-1.1.0.zip",
- "sha256": "2e691fa78d617c5af98eae30eddea7a9eaa4545223aefbc61269746a164228c6",
- "notes": "Watchdog + auto-update: the bot now restarts itself after crashes/freezes and installs tested updates by itself.",
- "publishedAt": "2026-11-06T03:17:08.996Z"
+ "version": "1.1.1",
+ "zip": "releases/slingoor-tracker-1.1.1.zip",
+ "sha256": "2b1554faf544611ed52a14c24a36d38d052a7fb52b4b5e98fa05c3fcb284bb1c",
+ "notes": "Copy trading only buys his NEW entries: adds to coins he already held (that we didn't buy with him) are no longer copied.",
+ "publishedAt": "2026-11-06T03:23:50.531Z"
 }
