@@ -1,7 +1,7 @@
 {
- "version": "1.2.5",
- "zip": "releases/slingoor-tracker-1.2.5.zip",
- "sha256": "d239926c843ea25898a071bf69dc50ce264921d30dfcc5f2ba15a9d67f153fa2",
- "notes": "Copies his re-entries: any coin he held none of right before buying is copied (even if he traded it days ago). Adds to a bag he's holding are still skipped. Buys also ~0.03s faster.",
- "publishedAt": "2026-11-06T20:27:32.848Z"
+ "version": "1.2.6",
+ "zip": "releases/slingoor-tracker-1.2.6.zip",
+ "sha256": "a46212e6dcb048f43ceef175efedb82b700e2fd049c2cebce8694b745c00a28a",
+ "notes": "Back to brand-new coins only (re-buys of coins he traded before are skipped; COPY_REENTRIES=on to change). New: a Telegram alert every time the bot skips one of his buys, with the reason.",
+ "publishedAt": "2026-11-06T20:49:33.929Z"
 }
