@@ -1,7 +1,7 @@
 {
- "version": "1.2.1",
- "zip": "releases/slingoor-tracker-1.2.1.zip",
- "sha256": "8fd5519fe2ffed77a02df66c16bbafdcd55d736e1e6c8cec80a1c5072b15cba6",
- "notes": "Fixes the chain stream not connecting when the Helius key was pasted as a full link, and /status now says exactly why the stream can't connect.",
- "publishedAt": "2026-11-06T18:20:37.021Z"
+ "version": "1.2.2",
+ "zip": "releases/slingoor-tracker-1.2.2.zip",
+ "sha256": "176ae2285ee3e53dbe23df30ac771a7bdad90d70b9fdd281562be5b5d5b8d423",
+ "notes": "Faster: sees his trades ~0.3s sooner (processed stream on Helius). Also fixes the live stream when the Helius link is in RPC_URL.",
+ "publishedAt": "2026-11-06T18:54:47.681Z"
 }
