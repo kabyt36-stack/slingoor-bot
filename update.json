@@ -1,7 +1,7 @@
 {
- "version": "1.2.9",
- "zip": "releases/slingoor-tracker-1.2.9.zip",
- "sha256": "55d45624d49c59a55ffd88c28f1cc24a3d9145ddafa4992cbfcf2faf75e85fe3",
- "notes": "Take-profit ladder: sells 50% at 2x (your SOL back), then 25% of the rest at 4x, 6x and 8x. Lower fees: normal priority, max 0.0005 SOL a trade (was ~0.002).",
- "publishedAt": "2026-11-06T22:49:43.391Z"
+ "version": "1.3.0",
+ "zip": "releases/slingoor-tracker-1.3.0.zip",
+ "sha256": "22dc2ac69282f004ca7777048c727a0c2c2aba54700bcf2490beb69995c18eeb",
+ "notes": "Stops doubled trades: only one copy of the bot can run on your Mac. A second copy (e.g. another folder or Auto-start) stops itself and tells you in Telegram.",
+ "publishedAt": "2026-11-06T23:40:01.550Z"
 }
