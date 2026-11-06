@@ -1,7 +1,7 @@
 {
- "version": "1.1.3",
- "zip": "releases/slingoor-tracker-1.1.3.zip",
- "sha256": "3cc619bc811e3e45f58bda5559798bc9d2aa8f814ce4f2ee8c7bb4a55576bd23",
- "notes": "Bags fallback: when pump.fun blocks the bag list (Cloudflare 403), his bags are read from the chain instead. Also fixed a wrong Token-2022 address.",
- "publishedAt": "2026-11-06T03:52:12.160Z"
+ "version": "1.1.4",
+ "zip": "releases/slingoor-tracker-1.1.4.zip",
+ "sha256": "f72b119f8aaa3b6b797fe24d7ef1f486dea68687a278d955bdecb1f90b4563fb",
+ "notes": "Works while pump.fun blocks your computer: alerts/copy trades from the chain, names from DexScreener/Helius, market cap from the bonding curve. Auto-update fixed for newer Node versions on Mac.",
+ "publishedAt": "2026-11-06T04:25:56.523Z"
 }
