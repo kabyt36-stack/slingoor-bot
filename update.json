@@ -1,7 +1,7 @@
 {
- "version": "1.8.0",
- "zip": "releases/slingoor-tracker-1.8.0.zip",
- "sha256": "24e2724c0845bec4cc771725ac16a7aa962cb1c68d47f9822da2a6fa196a7600",
- "notes": "📅 Daily recap at 11:59pm: profit from coins closed today, best/worst coin, buys/sells, wallet vs start of day, total. /recap shows today so far anytime.",
- "publishedAt": "2026-11-07T18:36:37.953Z"
+ "version": "1.9.0",
+ "zip": "releases/slingoor-tracker-1.9.0.zip",
+ "sha256": "4cf9f77306bacca40f3f720d21e6cb24eb9524dc9c1e2ce370d834d6d250f353",
+ "notes": "🛑 Cupsey coins sell faster: all out on the first pullback once up 75%, stop loss at 0.7x, sell on a 20% fast drop, profit lock after 1.3x. Sling's coins keep the normal rules.",
+ "publishedAt": "2026-11-07T20:06:55.549Z"
 }
