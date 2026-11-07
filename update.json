@@ -1,7 +1,7 @@
 {
- "version": "1.4.4",
- "zip": "releases/slingoor-tracker-1.4.4.zip",
- "sha256": "62d2f58d432f063a35e841903976f428333ab3620ba489e1a818b8757ef2d9f0",
- "notes": "🧹 Cleaner sell alerts: no coin address at the bottom (use the buttons), and the 8h sell no longer repeats 'held 8 hours'.",
- "publishedAt": "2026-11-07T12:54:58.190Z"
+ "version": "1.5.0",
+ "zip": "releases/slingoor-tracker-1.5.0.zip",
+ "sha256": "d78ab9b68daa2a27f7ee5d4316f205cf04ee4c393d8394c14546d1078a36bec0",
+ "notes": "🍳 MINI COOK: on buys of 0.1 SOL+, once a coin is up 75% (1.75x) the bot sells 50% when it starts pulling back, or at 2.5x at the latest. The rest keeps riding 4x/6x/8x.",
+ "publishedAt": "2026-11-07T14:19:29.414Z"
 }
