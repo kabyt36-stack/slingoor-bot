@@ -1,7 +1,7 @@
 {
- "version": "1.4.2",
- "zip": "releases/slingoor-tracker-1.4.2.zip",
- "sha256": "2bc594f8327363473a854d0eb2df789ce0448380eea3af483dea8b18d08c0bd8",
- "notes": "⏰ The 30-min warning before an 8h sell now shows how much SOL you'd get and your profit/loss on that coin.",
- "publishedAt": "2026-11-07T11:51:50.008Z"
+ "version": "1.4.3",
+ "zip": "releases/slingoor-tracker-1.4.3.zip",
+ "sha256": "0dd9b51ee0499f12976fc4e73cce83a303d537a13ffe642c5510f9de79a2419f",
+ "notes": "⏰ 8h warning: losses now show negative, like 🔴 -0.04 SOL loss (-0.40x); profits show 🟢 +SOL (x).",
+ "publishedAt": "2026-11-07T12:14:21.458Z"
 }
