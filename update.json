@@ -1,7 +1,7 @@
 {
- "version": "1.10.0",
- "zip": "releases/slingoor-tracker-1.10.0.zip",
- "sha256": "34b1df6268f170d4ef8c68b411e78c4d58d03c3ad01f159ea9d41a81d5d4f0ef",
- "notes": "💀 Dead-coin sell: a coin under your buy price that nobody is trading anymore (tiny volume, more sellers than buyers) gets sold out instead of bleeding. Never sells coins in profit or on /hold.",
- "publishedAt": "2026-11-07T20:16:37.809Z"
+ "version": "1.11.0",
+ "zip": "releases/slingoor-tracker-1.11.0.zip",
+ "sha256": "1fb87b17b8507f768817d1cefb3b88ca4cf3b82041d00985043405fd1bc9d832",
+ "notes": "👥 Sling's coins: sell all when under 80 holders, under your buy and holders not growing (after the first 10 min). Coins that are gaining are kept.",
+ "publishedAt": "2026-11-07T20:28:01.658Z"
 }
