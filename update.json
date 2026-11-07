@@ -1,7 +1,7 @@
 {
- "version": "1.3.4",
- "zip": "releases/slingoor-tracker-1.3.4.zip",
- "sha256": "1def2a38f99dd3803c9c52700c5b26a2306d35bea3be78e478a127bbc4579ac7",
- "notes": "Fixes buys of his coins priced in $BTC/$PUMP: no more failed on-chain buys (UnsupportedQuoteMint); the bot waits for Jupiter's route instead.",
- "publishedAt": "2026-11-07T01:53:15.704Z"
+ "version": "1.3.5",
+ "zip": "releases/slingoor-tracker-1.3.5.zip",
+ "sha256": "5d86c7e45163160574314a9e54ee9ac72dad601d62f75def60d998d2cab632f8",
+ "notes": "8-hour max hold: whatever's left of a coin is sold 8h after buying (warning 30 min before; /hold <CA> keeps it, /unhold undoes). If he sells out earlier, the bot sells out with him. Big trips get a COOKED alert.",
+ "publishedAt": "2026-11-07T03:02:38.797Z"
 }
