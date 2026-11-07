@@ -1,7 +1,7 @@
 {
- "version": "1.9.0",
- "zip": "releases/slingoor-tracker-1.9.0.zip",
- "sha256": "4cf9f77306bacca40f3f720d21e6cb24eb9524dc9c1e2ce370d834d6d250f353",
- "notes": "🛑 Cupsey coins sell faster: all out on the first pullback once up 75%, stop loss at 0.7x, sell on a 20% fast drop, profit lock after 1.3x. Sling's coins keep the normal rules.",
- "publishedAt": "2026-11-07T20:06:55.549Z"
+ "version": "1.10.0",
+ "zip": "releases/slingoor-tracker-1.10.0.zip",
+ "sha256": "34b1df6268f170d4ef8c68b411e78c4d58d03c3ad01f159ea9d41a81d5d4f0ef",
+ "notes": "💀 Dead-coin sell: a coin under your buy price that nobody is trading anymore (tiny volume, more sellers than buyers) gets sold out instead of bleeding. Never sells coins in profit or on /hold.",
+ "publishedAt": "2026-11-07T20:16:37.809Z"
 }
