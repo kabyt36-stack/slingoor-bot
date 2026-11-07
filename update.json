@@ -1,7 +1,7 @@
 {
- "version": "1.12.0",
- "zip": "releases/slingoor-tracker-1.12.0.zip",
- "sha256": "628228fcef3922a621c35c610177ec5e92a6af607d07f64b96beee4ba148d27a",
- "notes": "✅ Profit sells are now double-checked with a real Jupiter quote (no more fake MINI COOK on a coin that's actually down). 🔇 Losing sells make no alert; they're listed in the 11:59pm recap.",
- "publishedAt": "2026-11-07T21:21:24.161Z"
+ "version": "1.12.1",
+ "zip": "releases/slingoor-tracker-1.12.1.zip",
+ "sha256": "b9b236b78c302572ad39567c4e3db0fab808c80395ce7a1a2f911dde58590f77",
+ "notes": "📅 Daily recap now shows totals only: total gains, total losses, total PnL (no coin names).",
+ "publishedAt": "2026-11-07T21:31:31.185Z"
 }
