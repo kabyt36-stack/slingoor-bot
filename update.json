@@ -1,7 +1,7 @@
 {
- "version": "1.3.8",
- "zip": "releases/slingoor-tracker-1.3.8.zip",
- "sha256": "505b25b154ba3b65dd3cf97656596a1a52eebc354699706be3ff48ba29368ca4",
- "notes": "Dying-coin protection: sells everything left when a coin dumps 35% within 5 min, gives back 40% from its top after running 1.5x+, or slides back toward your entry. Prices checked every 5s.",
- "publishedAt": "2026-11-07T03:35:48.320Z"
+ "version": "1.3.9",
+ "zip": "releases/slingoor-tracker-1.3.9.zip",
+ "sha256": "c579bd20a528ba1276dc9e02682ab64315e28051eff4a96b978eb0e92ffa3e79",
+ "notes": "/hold <CA> now means: only sell that coin when sling sells (no take-profit, no dying-coin sells, no 8h limit). Works on coins you bought by hand too.",
+ "publishedAt": "2026-11-07T03:57:59.409Z"
 }
