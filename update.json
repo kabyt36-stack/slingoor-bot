@@ -1,7 +1,7 @@
 {
- "version": "1.3.2",
- "zip": "releases/slingoor-tracker-1.3.2.zip",
- "sha256": "df7334ef33ac3094932904ced66112779197b53e9aa5d1fe38b833a2c255985d",
- "notes": "Takes over coins in your bot wallet that it didn't buy itself (e.g. your hand-bought $ADA): it then sells with sling and follows the take-profit ladder.",
- "publishedAt": "2026-11-07T00:39:26.386Z"
+ "version": "1.3.3",
+ "zip": "releases/slingoor-tracker-1.3.3.zip",
+ "sha256": "27b36d62c3c56713a3bcecfdc9bc3fd0228a2ae342bd3826679c4ba03a831528",
+ "notes": "Small buys: when his buy scales to less than 0.1 SOL, the bot buys 0.1 SOL instead (COPY_FLOOR_BUY_SOL).",
+ "publishedAt": "2026-11-07T01:21:30.699Z"
 }
