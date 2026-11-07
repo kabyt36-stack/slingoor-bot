@@ -1,7 +1,7 @@
 {
- "version": "1.3.6",
- "zip": "releases/slingoor-tracker-1.3.6.zip",
- "sha256": "ec04d28cd69e5b833956fcb66233f868565927a34379b09d2b58e4edbb2f4dbd",
- "notes": "His launches paid in $PUMP/$BTC are now copied at a normal size: the bot read them as a 0.01 SOL buy (just fees) and skipped them as too small.",
- "publishedAt": "2026-11-07T03:10:54.401Z"
+ "version": "1.3.7",
+ "zip": "releases/slingoor-tracker-1.3.7.zip",
+ "sha256": "3abb1f5eca01c0bbc2baaa1932d6f39a43e4f9b8300aba6643a2b4193076a781",
+ "notes": "Paid Helius: the bot now gets his whole transaction on the live stream, so routed/PumpSwap/$PUMP-paid buys are copied without downloading them first (~0.3-1s faster).",
+ "publishedAt": "2026-11-07T03:25:06.158Z"
 }
