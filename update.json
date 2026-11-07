@@ -1,7 +1,7 @@
 {
- "version": "1.3.0",
- "zip": "releases/slingoor-tracker-1.3.0.zip",
- "sha256": "22dc2ac69282f004ca7777048c727a0c2c2aba54700bcf2490beb69995c18eeb",
- "notes": "Stops doubled trades: only one copy of the bot can run on your Mac. A second copy (e.g. another folder or Auto-start) stops itself and tells you in Telegram.",
- "publishedAt": "2026-11-06T23:40:01.550Z"
+ "version": "1.3.1",
+ "zip": "releases/slingoor-tracker-1.3.1.zip",
+ "sha256": "02cbc240f4128158f5ec0c9e17cb679c2305e21e7f20ab22aeb36aa5190a587a",
+ "notes": "Brand-new pools (fresh launches, coins paired with his $BTC): if Jupiter has no route yet, the buy keeps retrying for up to 45s instead of failing; stops if he sells out.",
+ "publishedAt": "2026-11-07T00:25:18.278Z"
 }
