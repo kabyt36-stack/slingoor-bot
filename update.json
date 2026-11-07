@@ -1,7 +1,7 @@
 {
- "version": "1.7.0",
- "zip": "releases/slingoor-tracker-1.7.0.zip",
- "sha256": "0a1a3bcb11cd9a99629813e01b513a7c8f6c14c43d7b4e1dfb17596916acdad8",
- "notes": "👥 CUPSEY MODE: the bot now also copies cupsey's brand-new coins, same rules, same wallet, one buy per coin across both. Each coin sells when the trader it was copied from sells. /mode to see it, /mode cupsey off|on to switch it.",
- "publishedAt": "2026-11-07T17:57:20.900Z"
+ "version": "1.8.0",
+ "zip": "releases/slingoor-tracker-1.8.0.zip",
+ "sha256": "24e2724c0845bec4cc771725ac16a7aa962cb1c68d47f9822da2a6fa196a7600",
+ "notes": "📅 Daily recap at 11:59pm: profit from coins closed today, best/worst coin, buys/sells, wallet vs start of day, total. /recap shows today so far anytime.",
+ "publishedAt": "2026-11-07T18:36:37.953Z"
 }
