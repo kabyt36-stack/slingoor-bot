@@ -1,7 +1,7 @@
 {
- "version": "1.5.0",
- "zip": "releases/slingoor-tracker-1.5.0.zip",
- "sha256": "d78ab9b68daa2a27f7ee5d4316f205cf04ee4c393d8394c14546d1078a36bec0",
- "notes": "🍳 MINI COOK: on buys of 0.1 SOL+, once a coin is up 75% (1.75x) the bot sells 50% when it starts pulling back, or at 2.5x at the latest. The rest keeps riding 4x/6x/8x.",
- "publishedAt": "2026-11-07T14:19:29.414Z"
+ "version": "1.6.0",
+ "zip": "releases/slingoor-tracker-1.6.0.zip",
+ "sha256": "2fb878ddd4844ca4308a88dbc490599c9df3d7abf825597c5bfbf4dcc5fd3558",
+ "notes": "🔕 Quiet mode: no more message per trade. One summary at the start of every hour with everything sling and the bot did, plus your wallet. Still instant: failed sells, the 30-min 8h warning, COOKED and MINI COOK.",
+ "publishedAt": "2026-11-07T14:42:12.926Z"
 }
