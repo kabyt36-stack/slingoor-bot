@@ -1,7 +1,7 @@
 {
- "version": "1.4.1",
- "zip": "releases/slingoor-tracker-1.4.1.zip",
- "sha256": "4d0e9d769a419899cd92eb74d4f77bfdf429ece4b0eb5d1cb3ec4bc6609a56b8",
- "notes": "Buys of his pumping launches: if the price runs past your slippage and the buy fails, it retries at up to 50% slippage instead of giving up.",
- "publishedAt": "2026-11-07T07:06:43.194Z"
+ "version": "1.4.2",
+ "zip": "releases/slingoor-tracker-1.4.2.zip",
+ "sha256": "2bc594f8327363473a854d0eb2df789ce0448380eea3af483dea8b18d08c0bd8",
+ "notes": "⏰ The 30-min warning before an 8h sell now shows how much SOL you'd get and your profit/loss on that coin.",
+ "publishedAt": "2026-11-07T11:51:50.008Z"
 }
