@@ -1,7 +1,7 @@
 {
- "version": "1.11.0",
- "zip": "releases/slingoor-tracker-1.11.0.zip",
- "sha256": "1fb87b17b8507f768817d1cefb3b88ca4cf3b82041d00985043405fd1bc9d832",
- "notes": "👥 Sling's coins: sell all when under 80 holders, under your buy and holders not growing (after the first 10 min). Coins that are gaining are kept.",
- "publishedAt": "2026-11-07T20:28:01.658Z"
+ "version": "1.12.0",
+ "zip": "releases/slingoor-tracker-1.12.0.zip",
+ "sha256": "628228fcef3922a621c35c610177ec5e92a6af607d07f64b96beee4ba148d27a",
+ "notes": "✅ Profit sells are now double-checked with a real Jupiter quote (no more fake MINI COOK on a coin that's actually down). 🔇 Losing sells make no alert; they're listed in the 11:59pm recap.",
+ "publishedAt": "2026-11-07T21:21:24.161Z"
 }
