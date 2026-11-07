@@ -1,7 +1,7 @@
 {
- "version": "1.3.3",
- "zip": "releases/slingoor-tracker-1.3.3.zip",
- "sha256": "27b36d62c3c56713a3bcecfdc9bc3fd0228a2ae342bd3826679c4ba03a831528",
- "notes": "Small buys: when his buy scales to less than 0.1 SOL, the bot buys 0.1 SOL instead (COPY_FLOOR_BUY_SOL).",
- "publishedAt": "2026-11-07T01:21:30.699Z"
+ "version": "1.3.4",
+ "zip": "releases/slingoor-tracker-1.3.4.zip",
+ "sha256": "1def2a38f99dd3803c9c52700c5b26a2306d35bea3be78e478a127bbc4579ac7",
+ "notes": "Fixes buys of his coins priced in $BTC/$PUMP: no more failed on-chain buys (UnsupportedQuoteMint); the bot waits for Jupiter's route instead.",
+ "publishedAt": "2026-11-07T01:53:15.704Z"
 }
