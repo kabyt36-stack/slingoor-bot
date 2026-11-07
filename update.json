@@ -1,7 +1,7 @@
 {
- "version": "1.6.2",
- "zip": "releases/slingoor-tracker-1.6.2.zip",
- "sha256": "aa91b84de6066a742782eace421a303cb4a9e74a2f3f486a508677780b290556",
- "notes": "🔔 Every sell the bot makes now pings you right away (take-profits, partial sells, mini cook, full exits). Sling's trades, skips and small stuff stay in the hourly summary.",
- "publishedAt": "2026-11-07T15:17:43.547Z"
+ "version": "1.6.3",
+ "zip": "releases/slingoor-tracker-1.6.3.zip",
+ "sha256": "373846f805155970505a0bb8a9494a3b29db0f55b969e9d2d9c2e23a58019f2c",
+ "notes": "🧹 /copy is cleaner: no wallet address, no settings line, no last skip. Now shows your wallet SOL and how much SOL the last buy used.",
+ "publishedAt": "2026-11-07T16:55:00.361Z"
 }
