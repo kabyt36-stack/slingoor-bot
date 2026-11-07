@@ -1,7 +1,7 @@
 {
- "version": "1.6.0",
- "zip": "releases/slingoor-tracker-1.6.0.zip",
- "sha256": "2fb878ddd4844ca4308a88dbc490599c9df3d7abf825597c5bfbf4dcc5fd3558",
- "notes": "🔕 Quiet mode: no more message per trade. One summary at the start of every hour with everything sling and the bot did, plus your wallet. Still instant: failed sells, the 30-min 8h warning, COOKED and MINI COOK.",
- "publishedAt": "2026-11-07T14:42:12.926Z"
+ "version": "1.6.1",
+ "zip": "releases/slingoor-tracker-1.6.1.zip",
+ "sha256": "292ce7b65892f721b81cd2e88c718420adef54dac0f7b177ede8305b0163f921",
+ "notes": "🔔 Bot buying into a coin and fully selling out of one ping you right away again. Everything else stays in the hourly summary.",
+ "publishedAt": "2026-11-07T14:55:01.468Z"
 }
