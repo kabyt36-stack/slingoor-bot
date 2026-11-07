@@ -1,7 +1,7 @@
 {
- "version": "1.6.1",
- "zip": "releases/slingoor-tracker-1.6.1.zip",
- "sha256": "292ce7b65892f721b81cd2e88c718420adef54dac0f7b177ede8305b0163f921",
- "notes": "🔔 Bot buying into a coin and fully selling out of one ping you right away again. Everything else stays in the hourly summary.",
- "publishedAt": "2026-11-07T14:55:01.468Z"
+ "version": "1.6.2",
+ "zip": "releases/slingoor-tracker-1.6.2.zip",
+ "sha256": "aa91b84de6066a742782eace421a303cb4a9e74a2f3f486a508677780b290556",
+ "notes": "🔔 Every sell the bot makes now pings you right away (take-profits, partial sells, mini cook, full exits). Sling's trades, skips and small stuff stay in the hourly summary.",
+ "publishedAt": "2026-11-07T15:17:43.547Z"
 }
