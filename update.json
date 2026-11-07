@@ -1,7 +1,7 @@
 {
- "version": "1.4.3",
- "zip": "releases/slingoor-tracker-1.4.3.zip",
- "sha256": "0dd9b51ee0499f12976fc4e73cce83a303d537a13ffe642c5510f9de79a2419f",
- "notes": "⏰ 8h warning: losses now show negative, like 🔴 -0.04 SOL loss (-0.40x); profits show 🟢 +SOL (x).",
- "publishedAt": "2026-11-07T12:14:21.458Z"
+ "version": "1.4.4",
+ "zip": "releases/slingoor-tracker-1.4.4.zip",
+ "sha256": "62d2f58d432f063a35e841903976f428333ab3620ba489e1a818b8757ef2d9f0",
+ "notes": "🧹 Cleaner sell alerts: no coin address at the bottom (use the buttons), and the 8h sell no longer repeats 'held 8 hours'.",
+ "publishedAt": "2026-11-07T12:54:58.190Z"
 }
