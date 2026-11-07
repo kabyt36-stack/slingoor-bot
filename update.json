@@ -1,7 +1,7 @@
 {
- "version": "1.3.1",
- "zip": "releases/slingoor-tracker-1.3.1.zip",
- "sha256": "02cbc240f4128158f5ec0c9e17cb679c2305e21e7f20ab22aeb36aa5190a587a",
- "notes": "Brand-new pools (fresh launches, coins paired with his $BTC): if Jupiter has no route yet, the buy keeps retrying for up to 45s instead of failing; stops if he sells out.",
- "publishedAt": "2026-11-07T00:25:18.278Z"
+ "version": "1.3.2",
+ "zip": "releases/slingoor-tracker-1.3.2.zip",
+ "sha256": "df7334ef33ac3094932904ced66112779197b53e9aa5d1fe38b833a2c255985d",
+ "notes": "Takes over coins in your bot wallet that it didn't buy itself (e.g. your hand-bought $ADA): it then sells with sling and follows the take-profit ladder.",
+ "publishedAt": "2026-11-07T00:39:26.386Z"
 }
