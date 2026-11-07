@@ -1,7 +1,7 @@
 {
- "version": "1.4.0",
- "zip": "releases/slingoor-tracker-1.4.0.zip",
- "sha256": "629a769b27c0048263309f000df4cf42a4f4346e79268ad4be624e1d4884b1ce",
- "notes": "Only copies coins launched in the last 3 hours (COPY_MAX_COIN_AGE_HOURS=3). Older coins are skipped with a Telegram note.",
- "publishedAt": "2026-11-07T04:53:12.939Z"
+ "version": "1.4.1",
+ "zip": "releases/slingoor-tracker-1.4.1.zip",
+ "sha256": "4d0e9d769a419899cd92eb74d4f77bfdf429ece4b0eb5d1cb3ec4bc6609a56b8",
+ "notes": "Buys of his pumping launches: if the price runs past your slippage and the buy fails, it retries at up to 50% slippage instead of giving up.",
+ "publishedAt": "2026-11-07T07:06:43.194Z"
 }
