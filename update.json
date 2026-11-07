@@ -1,7 +1,7 @@
 {
- "version": "1.6.3",
- "zip": "releases/slingoor-tracker-1.6.3.zip",
- "sha256": "373846f805155970505a0bb8a9494a3b29db0f55b969e9d2d9c2e23a58019f2c",
- "notes": "🧹 /copy is cleaner: no wallet address, no settings line, no last skip. Now shows your wallet SOL and how much SOL the last buy used.",
- "publishedAt": "2026-11-07T16:55:00.361Z"
+ "version": "1.7.0",
+ "zip": "releases/slingoor-tracker-1.7.0.zip",
+ "sha256": "0a1a3bcb11cd9a99629813e01b513a7c8f6c14c43d7b4e1dfb17596916acdad8",
+ "notes": "👥 CUPSEY MODE: the bot now also copies cupsey's brand-new coins, same rules, same wallet, one buy per coin across both. Each coin sells when the trader it was copied from sells. /mode to see it, /mode cupsey off|on to switch it.",
+ "publishedAt": "2026-11-07T17:57:20.900Z"
 }
