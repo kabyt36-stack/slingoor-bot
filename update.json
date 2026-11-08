@@ -1,7 +1,7 @@
 {
- "version": "1.12.3",
- "zip": "releases/slingoor-tracker-1.12.3.zip",
- "sha256": "9be3079f2e7dd223dc879f06e4d5b1be1c60f1dbdf5161fc23a9bf115710ed33",
- "notes": "💰 Hourly summary now shows PnL this hour and PnL today (gains · losses).",
- "publishedAt": "2026-11-08T00:44:45.207Z"
+ "version": "1.13.0",
+ "zip": "releases/slingoor-tracker-1.13.0.zip",
+ "sha256": "92efdce339c891fad413248c557e9056f4427a2bbc56df1c35d07b897b44a657",
+ "notes": "⚡ QUICK PROFIT MODE: /quick on = every coin sells 100% once up 25% (first 7% dip, or +75% at the latest). /quick off = normal.",
+ "publishedAt": "2026-11-08T04:08:13.257Z"
 }
