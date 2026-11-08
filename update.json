@@ -1,7 +1,7 @@
 {
- "version": "1.12.2",
- "zip": "releases/slingoor-tracker-1.12.2.zip",
- "sha256": "d7344fd20afe3b55262593321d3ae6e9af98f4e57cee016c775334de6181f3b1",
- "notes": "🏆 Daily recap now has MPT: the trader whose copies made you the most SOL that day.",
- "publishedAt": "2026-11-07T21:41:54.416Z"
+ "version": "1.12.3",
+ "zip": "releases/slingoor-tracker-1.12.3.zip",
+ "sha256": "9be3079f2e7dd223dc879f06e4d5b1be1c60f1dbdf5161fc23a9bf115710ed33",
+ "notes": "💰 Hourly summary now shows PnL this hour and PnL today (gains · losses).",
+ "publishedAt": "2026-11-08T00:44:45.207Z"
 }
