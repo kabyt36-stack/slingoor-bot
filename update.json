@@ -1,7 +1,7 @@
 {
- "version": "1.13.0",
- "zip": "releases/slingoor-tracker-1.13.0.zip",
- "sha256": "92efdce339c891fad413248c557e9056f4427a2bbc56df1c35d07b897b44a657",
- "notes": "⚡ QUICK PROFIT MODE: /quick on = every coin sells 100% once up 25% (first 7% dip, or +75% at the latest). /quick off = normal.",
- "publishedAt": "2026-11-08T04:08:13.257Z"
+ "version": "1.13.1",
+ "zip": "releases/slingoor-tracker-1.13.1.zip",
+ "sha256": "1b987b6aa54455bf1549b7f4256253bc72c0fd7a5432c09aa5fe23f95799f122",
+ "notes": "🧹 Shorter buy alert: just what you spent on which coin and whose buy it copied.",
+ "publishedAt": "2026-11-08T04:51:18.590Z"
 }
