@@ -1,7 +1,7 @@
 {
- "version": "2.7.5",
- "zip": "releases/slingoor-tracker-2.7.5.zip",
- "sha256": "ed1978b802c2cafd5681c8c757ee29f3031a94bf88586164c5dfc59908faec3b",
- "notes": "v2.7.5: sell pings only for cooks (other sells go in the hourly summary); hourly summary shows your PnL across all wallets",
- "publishedAt": "2026-11-12T02:38:37.934Z"
+ "version": "2.7.6",
+ "zip": "releases/slingoor-tracker-2.7.6.zip",
+ "sha256": "6fdedd160c5d8fa28fa11a9537fa0462b0b4fd052618a716573b2e9e46db0d1b",
+ "notes": "v2.7.6: coins copied from bot hold longer — sell all at 1.8x or after a 10% drop from the top (was 1.4x / 5%)",
+ "publishedAt": "2026-11-12T02:47:42.357Z"
 }
