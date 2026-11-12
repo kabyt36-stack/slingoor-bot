@@ -1,7 +1,7 @@
 {
- "version": "2.9.5",
- "zip": "releases/slingoor-tracker-2.9.5.zip",
- "sha256": "a852e1cbf25fd8b1578a2d357a3f736f34aa51ce285422d6aa742169c79680e6",
- "notes": "v2.9.5: undo v2.9.4 — no 30-holder minimum on buys (back to how it was)",
- "publishedAt": "2026-11-12T20:19:12.732Z"
+ "version": "2.9.6",
+ "zip": "releases/slingoor-tracker-2.9.6.zip",
+ "sha256": "7343baaab0f02a27d9b35b290048201901d1a27e5665a5e2db027c61c59545a8",
+ "notes": "v2.9.6: stop loss -20% on every copied trader's coins (main + side wallets) and no buying the pump: skip if the price is already 15%+ above where the trader bought (paper does the same)",
+ "publishedAt": "2026-11-12T21:15:49.010Z"
 }
