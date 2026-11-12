@@ -1,7 +1,7 @@
 {
- "version": "2.7.2",
- "zip": "releases/slingoor-tracker-2.7.2.zip",
- "sha256": "39b84eb3417d3a00b0ecb4c5367ad1943b6577cd7e63d39e644f37e65c3c80c0",
- "notes": "🔕 Side wallets no longer send buy alerts (sells still do). 🧪 /paperwallet shows your paper balances, coins held and PnL vs the start.",
- "publishedAt": "2026-11-12T01:49:52.120Z"
+ "version": "2.7.3",
+ "zip": "releases/slingoor-tracker-2.7.3.zip",
+ "sha256": "b7c91a9c6b861cb9c10528bd8459356a63f81dd0ac90d7048a4514cdcb5b2b8b",
+ "notes": "😴 /hibernate: sleep tonight from 12:01am until 8am (/hibernate 9 = 9am), no new buys, held coins still sell; /hibernate off cancels. ⏭ /skips shows why recent buys weren't copied.",
+ "publishedAt": "2026-11-12T02:07:36.978Z"
 }
