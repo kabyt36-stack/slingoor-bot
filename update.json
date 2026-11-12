@@ -1,7 +1,7 @@
 {
- "version": "2.8.8",
- "zip": "releases/slingoor-tracker-2.8.8.zip",
- "sha256": "e2f33caaa5c5edac860a2ffd9098a83696ae1c383c355f5e60a287829129b162",
- "notes": "v2.8.8: paper trades pay the real fee cap and fill 1.5s after the decision (the slow end of real), so paper never looks better than real",
- "publishedAt": "2026-11-12T13:51:12.541Z"
+ "version": "2.8.9",
+ "zip": "releases/slingoor-tracker-2.8.9.zip",
+ "sha256": "367d8e2b8a1c99ce823bb02d77eafa39c7e9b9358193a7b5e7079bf1a85ba095",
+ "notes": "v2.8.9: main wallet cooks start with MAIN WALLET COOK (side wallet cooks end with W2/W3/W4)",
+ "publishedAt": "2026-11-12T14:00:55.726Z"
 }
