@@ -1,7 +1,7 @@
 {
- "version": "2.9.3",
- "zip": "releases/slingoor-tracker-2.9.3.zip",
- "sha256": "6aff6cc3a624d1dfc4c52cf43550801b253cb095d218ee893f06c22e4f3970bf",
- "notes": "v2.9.3: wallet sets — a devs set with its own main wallet + mini wallets copies only the devs (pattersin, claudia, ya, nig); starts when wallet-key-devs.txt is in the bot folder",
- "publishedAt": "2026-11-12T18:00:56.064Z"
+ "version": "2.9.4",
+ "zip": "releases/slingoor-tracker-2.9.4.zip",
+ "sha256": "f50d8d09dd690fdb92fe1e2bacc9c55b02010b783aea5652dc562825aac14f79",
+ "notes": "v2.9.4: no copy buy into a coin with under 30 holders (all wallet sets; instant/rug devs exempt since they buy at launch)",
+ "publishedAt": "2026-11-12T18:37:54.765Z"
 }
