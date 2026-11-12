@@ -1,7 +1,7 @@
 {
- "version": "2.9.1",
- "zip": "releases/slingoor-tracker-2.9.1.zip",
- "sha256": "fc7d446e9e218f9c3c9f5c7c946079d801de0a3ce5621a7c4d48eed7b405ef30",
- "notes": "v2.9.1: hourly PnL goal — /goal 0.05: once this hour's closed trades (all wallets) reach it, no new buys until the next hour; coins held still sell for profit",
- "publishedAt": "2026-11-12T17:31:37.630Z"
+ "version": "2.9.2",
+ "zip": "releases/slingoor-tracker-2.9.2.zip",
+ "sha256": "2a277b84575516912808b6f551d890ba59fe6d68b5428b04735813d5b3f5d793",
+ "notes": "v2.9.2: adaptive hourly goal — an hour that hits the goal raises the next hour's goal (to what it made, at least +10%), a missed hour keeps it, each new day starts back at your /goal",
+ "publishedAt": "2026-11-12T17:43:42.144Z"
 }
