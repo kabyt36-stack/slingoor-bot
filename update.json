@@ -1,7 +1,7 @@
 {
- "version": "2.8.11",
- "zip": "releases/slingoor-tracker-2.8.11.zip",
- "sha256": "33cd6334d434d18a2dbbc5fcca5a967e80840d2acd1b63abb3465411bf0f1d33",
- "notes": "v2.8.11: the wallet leaderboard is not part of this bot (it is its own separate bot now); nothing else changed",
- "publishedAt": "2026-11-12T15:17:03.924Z"
+ "version": "2.9.0",
+ "zip": "releases/slingoor-tracker-2.9.0.zip",
+ "sha256": "a6e1d45ae03417c86ab51d4bc9b38af75d4bd8e51972b6131f2144ba4be744d8",
+ "notes": "v2.9.0: one trader per wallet set — every wallet (main, W2-W4) now copies only dilly; all other traders/devs stay saved and tracked; /wallettraders to change who each wallet copies",
+ "publishedAt": "2026-11-12T17:13:45.214Z"
 }
