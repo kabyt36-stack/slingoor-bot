@@ -1,7 +1,7 @@
 {
- "version": "2.9.10",
- "zip": "releases/slingoor-tracker-2.9.10.zip",
- "sha256": "ef7ffbc5dc1ed6c29bc5793770e0351416238b0947aaafa95a7249bd50e3bae7",
- "notes": "v2.9.10: 4 ghost wallets per trader like your real set (main + 3 sides); /ghosts shows each trader's whole set, main and sides",
- "publishedAt": "2026-11-12T22:50:16.686Z"
+ "version": "2.9.11",
+ "zip": "releases/slingoor-tracker-2.9.11.zip",
+ "sha256": "1f425900383194e268b91baf047d7385e3fae9b96e98acb35a4d7011d2b881e6",
+ "notes": "v2.9.11: ghost wallets now copy every trader's buys (also coins already on PumpSwap/Raydium, not just new pump.fun coins)",
+ "publishedAt": "2026-11-12T23:22:19.352Z"
 }
