@@ -1,7 +1,7 @@
 {
- "version": "2.9.0",
- "zip": "releases/slingoor-tracker-2.9.0.zip",
- "sha256": "a6e1d45ae03417c86ab51d4bc9b38af75d4bd8e51972b6131f2144ba4be744d8",
- "notes": "v2.9.0: one trader per wallet set — every wallet (main, W2-W4) now copies only dilly; all other traders/devs stay saved and tracked; /wallettraders to change who each wallet copies",
- "publishedAt": "2026-11-12T17:13:45.214Z"
+ "version": "2.9.1",
+ "zip": "releases/slingoor-tracker-2.9.1.zip",
+ "sha256": "fc7d446e9e218f9c3c9f5c7c946079d801de0a3ce5621a7c4d48eed7b405ef30",
+ "notes": "v2.9.1: hourly PnL goal — /goal 0.05: once this hour's closed trades (all wallets) reach it, no new buys until the next hour; coins held still sell for profit",
+ "publishedAt": "2026-11-12T17:31:37.630Z"
 }
