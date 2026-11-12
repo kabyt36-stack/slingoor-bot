@@ -1,7 +1,7 @@
 {
- "version": "2.9.9",
- "zip": "releases/slingoor-tracker-2.9.9.zip",
- "sha256": "53710416c83d5eb2896be80bb6c6134dd35306271de8318c8aff630a0fe116a4",
- "notes": "v2.9.9: ghost wallets — every tracked trader is copied by pretend main + side wallets (no SOL, no trades) so /ghosts shows who would make you money; nightly ghost report at 11:58pm",
- "publishedAt": "2026-11-12T22:38:42.633Z"
+ "version": "2.9.10",
+ "zip": "releases/slingoor-tracker-2.9.10.zip",
+ "sha256": "ef7ffbc5dc1ed6c29bc5793770e0351416238b0947aaafa95a7249bd50e3bae7",
+ "notes": "v2.9.10: 4 ghost wallets per trader like your real set (main + 3 sides); /ghosts shows each trader's whole set, main and sides",
+ "publishedAt": "2026-11-12T22:50:16.686Z"
 }
