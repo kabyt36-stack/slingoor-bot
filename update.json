@@ -1,7 +1,7 @@
 {
- "version": "1.13.1",
- "zip": "releases/slingoor-tracker-1.13.1.zip",
- "sha256": "1b987b6aa54455bf1549b7f4256253bc72c0fd7a5432c09aa5fe23f95799f122",
- "notes": "🧹 Shorter buy alert: just what you spent on which coin and whose buy it copied.",
- "publishedAt": "2026-11-08T04:51:18.590Z"
+ "version": "2.0.0",
+ "zip": "releases/slingoor-tracker-2.0.0.zip",
+ "sha256": "f2c320e9d3f9aa6227cf447d9c2a47d1767279dbea69dad3358e8cfed143f749",
+ "notes": "🚀 V2: sling retired, so the bot no longer copies him (/mode slingoor on to undo). New WEAK COIN sell: small buys (<3 SOL) on fading charts get sold, unless holders or buyers are still growing. Buy alert is one line.",
+ "publishedAt": "2026-11-12T00:20:00.322Z"
 }
