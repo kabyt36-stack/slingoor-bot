@@ -1,7 +1,7 @@
 {
- "version": "2.8.1",
- "zip": "releases/slingoor-tracker-2.8.1.zip",
- "sha256": "47fd1b76e2f56fe04e54a2bbb79561a5948e39db188f97cf63a7da9459e6c721",
- "notes": "v2.8.1: the bot learns what kind of coin works for each wallet (narrative, X account, market cap, age, holders, dev) from every coin they buy; /suggestions can suggest skipping the losers",
- "publishedAt": "2026-11-12T03:31:08.690Z"
+ "version": "2.8.2",
+ "zip": "releases/slingoor-tracker-2.8.2.zip",
+ "sha256": "b121fc26fa0a42f85f0168d4f50d61b1becda6bb02103dc4b63fb276622c2368",
+ "notes": "v2.8.2: deep check fixes — sells retry with more slippage on dumps, side wallets get their coin-account rent back, rent no longer counted as cost, decu's quick-profit rules work on 0.05 buys, bot's buy-backs are copied, faster price checks, auto-fund only on new highs",
+ "publishedAt": "2026-11-12T12:17:40.241Z"
 }
