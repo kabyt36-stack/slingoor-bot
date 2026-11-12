@@ -1,7 +1,7 @@
 {
- "version": "2.7.1",
- "zip": "releases/slingoor-tracker-2.7.1.zip",
- "sha256": "0aa5e5338c7d9ce57eb18c559b18f1d88595f3508970f618e110d5e15ecf5fce",
- "notes": "💸 Auto-fund now always leaves at least 70% of all your SOL in the main wallet (tops up the emptiest side wallets first).",
- "publishedAt": "2026-11-12T01:43:55.756Z"
+ "version": "2.7.2",
+ "zip": "releases/slingoor-tracker-2.7.2.zip",
+ "sha256": "39b84eb3417d3a00b0ecb4c5367ad1943b6577cd7e63d39e644f37e65c3c80c0",
+ "notes": "🔕 Side wallets no longer send buy alerts (sells still do). 🧪 /paperwallet shows your paper balances, coins held and PnL vs the start.",
+ "publishedAt": "2026-11-12T01:49:52.120Z"
 }
