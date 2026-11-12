@@ -1,7 +1,7 @@
 {
- "version": "2.9.6",
- "zip": "releases/slingoor-tracker-2.9.6.zip",
- "sha256": "7343baaab0f02a27d9b35b290048201901d1a27e5665a5e2db027c61c59545a8",
- "notes": "v2.9.6: stop loss -20% on every copied trader's coins (main + side wallets) and no buying the pump: skip if the price is already 15%+ above where the trader bought (paper does the same)",
- "publishedAt": "2026-11-12T21:15:49.010Z"
+ "version": "2.9.7",
+ "zip": "releases/slingoor-tracker-2.9.7.zip",
+ "sha256": "a0767643889debff8b3aa08c08842d8722f4f1450e8e00271eb617dc30026c87",
+ "notes": "v2.9.7: coins with no price on the price sites are valued with a Jupiter sell quote, so the stop loss and other sell rules still work on them (they used to ride to zero)",
+ "publishedAt": "2026-11-12T21:47:27.718Z"
 }
