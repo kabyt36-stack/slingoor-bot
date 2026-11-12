@@ -1,7 +1,7 @@
 {
- "version": "2.7.4",
- "zip": "releases/slingoor-tracker-2.7.4.zip",
- "sha256": "0960810180a23ff66681ef9f1f52cf5eb09b5841bf879727099e88436317d890",
- "notes": "v2.7.4: paper trades fill like real ones (1s landing delay, slippage fails, fees, account rent)",
- "publishedAt": "2026-11-12T02:13:43.680Z"
+ "version": "2.7.5",
+ "zip": "releases/slingoor-tracker-2.7.5.zip",
+ "sha256": "ed1978b802c2cafd5681c8c757ee29f3031a94bf88586164c5dfc59908faec3b",
+ "notes": "v2.7.5: sell pings only for cooks (other sells go in the hourly summary); hourly summary shows your PnL across all wallets",
+ "publishedAt": "2026-11-12T02:38:37.934Z"
 }
