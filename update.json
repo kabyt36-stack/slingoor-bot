@@ -1,7 +1,7 @@
 {
- "version": "2.7.3",
- "zip": "releases/slingoor-tracker-2.7.3.zip",
- "sha256": "b7c91a9c6b861cb9c10528bd8459356a63f81dd0ac90d7048a4514cdcb5b2b8b",
- "notes": "😴 /hibernate: sleep tonight from 12:01am until 8am (/hibernate 9 = 9am), no new buys, held coins still sell; /hibernate off cancels. ⏭ /skips shows why recent buys weren't copied.",
- "publishedAt": "2026-11-12T02:07:36.978Z"
+ "version": "2.7.4",
+ "zip": "releases/slingoor-tracker-2.7.4.zip",
+ "sha256": "0960810180a23ff66681ef9f1f52cf5eb09b5841bf879727099e88436317d890",
+ "notes": "v2.7.4: paper trades fill like real ones (1s landing delay, slippage fails, fees, account rent)",
+ "publishedAt": "2026-11-12T02:13:43.680Z"
 }
