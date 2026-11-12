@@ -1,7 +1,7 @@
 {
- "version": "2.1.0",
- "zip": "releases/slingoor-tracker-2.1.0.zip",
- "sha256": "dffafec39f36600ef85fb205e31504b8a3c212e890cb471f89f06863b6ba91f4",
- "notes": "✂️ V2.1: one-line alerts (Bought X — 0.1 SOL · 2.4x cook on X — got 0.24 SOL). No more skip alerts. Traders' coins moved out of the hourly summary into /traded.",
- "publishedAt": "2026-11-12T00:27:24.656Z"
+ "version": "2.3.0",
+ "zip": "releases/slingoor-tracker-2.3.0.zip",
+ "sha256": "3027509a2aeb423d43f270a6a5161ec7775fecd4f661a4dcaa451a3466b5ff44",
+ "notes": "🚀 V2.3: now copying schoen, ansem and killua (cupsey and sling removed). Pause each one with /mode schoen off (on to resume). Quick-profit wallets: wallet-key-2/3/4.txt buy 0.05 SOL each and sell 100% at +25%.",
+ "publishedAt": "2026-11-12T00:53:53.390Z"
 }
