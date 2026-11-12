@@ -1,7 +1,7 @@
 {
- "version": "2.5.0",
- "zip": "releases/slingoor-tracker-2.5.0.zip",
- "sha256": "d569997d349e957f2dd28bcbca1b7006ed484d3f2e03e5245eed08ad9a8c0eec",
- "notes": "🚀 V2.5: backup Helius keys (HELIUS_BACKUP_KEYS) switch in when one runs out. New traders: dilly (/quick dilly on|off), mini toaster bot + decu (quick profit; decu off by default). Rug-dev experiment (≤k MC, out in minutes, own PnL line). /wallets to switch wallets on/off or buy with side wallets only. Slippage 30%.",
- "publishedAt": "2026-11-12T01:19:28.640Z"
+ "version": "2.6.0",
+ "zip": "releases/slingoor-tracker-2.6.0.zip",
+ "sha256": "2913f95a440262f3e89bac314b5754da16af70ba4f8429f1f8acb7845afe4e5e",
+ "notes": "💸 V2.6: auto-fund: each time your main wallet reaches a new whole SOL (1, 2, 3…), it sends 0.1 SOL to each side wallet that's on. Slippage now 10% (retries automatically higher if a fast coin moves).",
+ "publishedAt": "2026-11-12T01:26:25.158Z"
 }
