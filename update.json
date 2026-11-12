@@ -1,7 +1,7 @@
 {
- "version": "2.9.8",
- "zip": "releases/slingoor-tracker-2.9.8.zip",
- "sha256": "3be6bfb89f8c8a2e0d41737def24981e692eda69f63bc21003cd843cc1b64a73",
- "notes": "v2.9.8: /wins (biggest winning coins + market cap the bot bought at), buy alerts show the market cap; paper restarts with main 0.1 SOL and random side-wallet amounts (1 SOL total)",
- "publishedAt": "2026-11-12T22:11:47.390Z"
+ "version": "2.9.9",
+ "zip": "releases/slingoor-tracker-2.9.9.zip",
+ "sha256": "53710416c83d5eb2896be80bb6c6134dd35306271de8318c8aff630a0fe116a4",
+ "notes": "v2.9.9: ghost wallets — every tracked trader is copied by pretend main + side wallets (no SOL, no trades) so /ghosts shows who would make you money; nightly ghost report at 11:58pm",
+ "publishedAt": "2026-11-12T22:38:42.633Z"
 }
