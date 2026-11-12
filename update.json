@@ -1,7 +1,7 @@
 {
- "version": "2.6.0",
- "zip": "releases/slingoor-tracker-2.6.0.zip",
- "sha256": "2913f95a440262f3e89bac314b5754da16af70ba4f8429f1f8acb7845afe4e5e",
- "notes": "💸 V2.6: auto-fund: each time your main wallet reaches a new whole SOL (1, 2, 3…), it sends 0.1 SOL to each side wallet that's on. Slippage now 10% (retries automatically higher if a fast coin moves).",
- "publishedAt": "2026-11-12T01:26:25.158Z"
+ "version": "2.7.0",
+ "zip": "releases/slingoor-tracker-2.7.0.zip",
+ "sha256": "c4ce1d559a6a828c1285727229fbeff944d3a3df7bd9a997defefc35107a12bc",
+ "notes": "🧪 V2.7 PAPER MODE: /paper on = practise with fake money at real prices (main 0.5, W2 0.2, W3 0.2, W4 0.1; resets every time you turn it on; /paper set W2 0.2 to change). /paper off = real trading. Daily recap now has a trader report card (A–F) with who to replace.",
+ "publishedAt": "2026-11-12T01:35:29.985Z"
 }
