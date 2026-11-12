@@ -1,7 +1,7 @@
 {
- "version": "2.8.4",
- "zip": "releases/slingoor-tracker-2.8.4.zip",
- "sha256": "c12da0f99c8ac1068ff6a2ff5a12e27234973fbc029b1cd666b6c52efc0da218",
- "notes": "v2.8.4: end-of-day refill — at 11:55pm a side wallet too low to buy gets 0.05 SOL from the main wallet (main still keeps 70%)",
- "publishedAt": "2026-11-12T13:12:11.949Z"
+ "version": "2.8.5",
+ "zip": "releases/slingoor-tracker-2.8.5.zip",
+ "sha256": "46b55cf354a0f6636bb36d8328afb10e90eab52075faad2ca010b39f91ac9296",
+ "notes": "v2.8.5: the hourly summary (real and paper) lists only coins that made you money — no buys, no losing sells",
+ "publishedAt": "2026-11-12T13:21:54.831Z"
 }
