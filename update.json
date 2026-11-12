@@ -1,7 +1,7 @@
 {
- "version": "2.4.0",
- "zip": "releases/slingoor-tracker-2.4.0.zip",
- "sha256": "6bb5806dad0b3fde98b7ee6879c5aa4ecb60b2b32f326959ee2e5316506ca1a9",
- "notes": "🚀 V2.4 DEVS: bot buys launches from pattersin (instant), claudia (waits for 40 holders + 30% up), ya and nig (wait for a 20% dip), with all your wallets. Watch-only wallets (kimchi, henry…) make it hold longer. /mode traders off|on and /mode devs off|on. Devs PnL line in the summary.",
- "publishedAt": "2026-11-12T01:06:26.195Z"
+ "version": "2.5.0",
+ "zip": "releases/slingoor-tracker-2.5.0.zip",
+ "sha256": "d569997d349e957f2dd28bcbca1b7006ed484d3f2e03e5245eed08ad9a8c0eec",
+ "notes": "🚀 V2.5: backup Helius keys (HELIUS_BACKUP_KEYS) switch in when one runs out. New traders: dilly (/quick dilly on|off), mini toaster bot + decu (quick profit; decu off by default). Rug-dev experiment (≤k MC, out in minutes, own PnL line). /wallets to switch wallets on/off or buy with side wallets only. Slippage 30%.",
+ "publishedAt": "2026-11-12T01:19:28.640Z"
 }
