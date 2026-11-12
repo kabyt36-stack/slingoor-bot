@@ -1,7 +1,7 @@
 {
- "version": "2.9.11",
- "zip": "releases/slingoor-tracker-2.9.11.zip",
- "sha256": "1f425900383194e268b91baf047d7385e3fae9b96e98acb35a4d7011d2b881e6",
- "notes": "v2.9.11: ghost wallets now copy every trader's buys (also coins already on PumpSwap/Raydium, not just new pump.fun coins)",
- "publishedAt": "2026-11-12T23:22:19.352Z"
+ "version": "2.9.12",
+ "zip": "releases/slingoor-tracker-2.9.12.zip",
+ "sha256": "42f53654a0bd014e890b0fe7ca591ca4117a16575edf9e5df46252a548b128f2",
+ "notes": "v2.9.12: market caps per trader — pretend wallets record the market cap of every coin; /ghosts and /sweetspot show where each trader makes money; /sweetspot on (off by default) only copies each trader in his winning ranges",
+ "publishedAt": "2026-11-12T23:50:50.444Z"
 }
