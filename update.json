@@ -1,7 +1,7 @@
 {
- "version": "2.9.4",
- "zip": "releases/slingoor-tracker-2.9.4.zip",
- "sha256": "f50d8d09dd690fdb92fe1e2bacc9c55b02010b783aea5652dc562825aac14f79",
- "notes": "v2.9.4: no copy buy into a coin with under 30 holders (all wallet sets; instant/rug devs exempt since they buy at launch)",
- "publishedAt": "2026-11-12T18:37:54.765Z"
+ "version": "2.9.5",
+ "zip": "releases/slingoor-tracker-2.9.5.zip",
+ "sha256": "a852e1cbf25fd8b1578a2d357a3f736f34aa51ce285422d6aa742169c79680e6",
+ "notes": "v2.9.5: undo v2.9.4 — no 30-holder minimum on buys (back to how it was)",
+ "publishedAt": "2026-11-12T20:19:12.732Z"
 }
