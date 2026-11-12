@@ -1,7 +1,7 @@
 {
- "version": "2.8.6",
- "zip": "releases/slingoor-tracker-2.8.6.zip",
- "sha256": "c0d7a0e2efe1cbc6efc1286b2980bdd0325bb66e9666f5b5f2d478625de7e176",
- "notes": "v2.8.6: nightly side-wallet refill runs whenever the main wallet keeps at least 0.1 SOL after sending",
- "publishedAt": "2026-11-12T13:31:14.385Z"
+ "version": "2.8.7",
+ "zip": "releases/slingoor-tracker-2.8.7.zip",
+ "sha256": "fadda05162a30c214324275e8e4f4bff21c72e135db0a7093fabd28f8e2afd09",
+ "notes": "v2.8.7: every summary (real and paper) shows what the side wallets made, this hour and today, per wallet",
+ "publishedAt": "2026-11-12T13:41:03.307Z"
 }
