@@ -1,7 +1,7 @@
 {
- "version": "2.9.7",
- "zip": "releases/slingoor-tracker-2.9.7.zip",
- "sha256": "a0767643889debff8b3aa08c08842d8722f4f1450e8e00271eb617dc30026c87",
- "notes": "v2.9.7: coins with no price on the price sites are valued with a Jupiter sell quote, so the stop loss and other sell rules still work on them (they used to ride to zero)",
- "publishedAt": "2026-11-12T21:47:27.718Z"
+ "version": "2.9.8",
+ "zip": "releases/slingoor-tracker-2.9.8.zip",
+ "sha256": "3be6bfb89f8c8a2e0d41737def24981e692eda69f63bc21003cd843cc1b64a73",
+ "notes": "v2.9.8: /wins (biggest winning coins + market cap the bot bought at), buy alerts show the market cap; paper restarts with main 0.1 SOL and random side-wallet amounts (1 SOL total)",
+ "publishedAt": "2026-11-12T22:11:47.390Z"
 }
