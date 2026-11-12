@@ -1,7 +1,7 @@
 {
- "version": "2.8.9",
- "zip": "releases/slingoor-tracker-2.8.9.zip",
- "sha256": "367d8e2b8a1c99ce823bb02d77eafa39c7e9b9358193a7b5e7079bf1a85ba095",
- "notes": "v2.8.9: main wallet cooks start with MAIN WALLET COOK (side wallet cooks end with W2/W3/W4)",
- "publishedAt": "2026-11-12T14:00:55.726Z"
+ "version": "2.8.10",
+ "zip": "releases/slingoor-tracker-2.8.10.zip",
+ "sha256": "b516f45d2d7047fed0e1b129d66b6d08d98b381f4ddc426d510f58e4c6ff485f",
+ "notes": "v2.8.10: wallet leaderboards in their own Telegram chat (set LB_BOT_TOKEN) - daily, weekly and monthly top wallets by PnL, green-day streaks and win streaks, plus biggest coins of the day/week/month. /lb to see them.",
+ "publishedAt": "2026-11-12T14:10:56.151Z"
 }
