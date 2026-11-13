@@ -1,7 +1,7 @@
 {
  "version": "2.11.10",
  "zip": "releases/slingoor-tracker-2.11.10.zip",
- "sha256": "41450bf25e9a784fbf6bffddcd072bc8f3d24fa591e52e8d130ac5e77b7566b2",
- "notes": "v2.11.10: reads the traders the wallet leaderboard bot sends (its feed file) and adds them as traders (lb_xxxx, max 10); pretend wallets watch them first and auto-rotate copies them only if they turn hot",
- "publishedAt": "2026-11-13T03:57:27.669Z"
+ "sha256": "d634d64d5e97ea31f37bb071e6942e4d0f3a074735a5260801ba522a5132a380",
+ "notes": "v2.11.10: paper = 10 side wallets adding up to 1 SOL, main 0 SOL as the bank (doesn't buy); side wallets send their profits to main like real transfers",
+ "publishedAt": "2026-11-13T04:08:46.552Z"
 }
