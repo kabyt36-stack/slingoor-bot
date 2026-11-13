@@ -1,7 +1,7 @@
 {
- "version": "2.11.11",
- "zip": "releases/slingoor-tracker-2.11.11.zip",
- "sha256": "e5b766a8e5853e03cf9e71ff90e6aa8bd3cdc59c0846a81832dbd77718ba2ba3",
- "notes": "v2.11.11: 48-hour wait for new wallets is on again (from 11:13pm Nov 12); tonight's wallets keep no wait",
- "publishedAt": "2026-11-13T04:36:58.635Z"
+ "version": "2.11.12",
+ "zip": "releases/slingoor-tracker-2.11.12.zip",
+ "sha256": "2e5c106a6407a223ee74b3245d72266636aea61e48cc9c297071c63bb6de2472",
+ "notes": "v2.11.12: daily goal 1 SOL — once today's closed trades made 1 SOL, no new buys until midnight (coins held still sell); /daygoal",
+ "publishedAt": "2026-11-13T11:49:23.501Z"
 }
