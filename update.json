@@ -1,7 +1,7 @@
 {
- "version": "2.11.4",
- "zip": "releases/slingoor-tracker-2.11.4.zip",
- "sha256": "c3a96028e1f5214ecd7b86c8995dfc4047e55d5a146e01c944a8e4be13ded73a",
- "notes": "v2.11.4: 33 new wallets (t1-t33, watched on the chain, no pump.fun load), farmers t3 + t27 (100+ holders, under $40k, also cupsey), devs ranked hot/neutral/cold on their own for the devs set, long Telegram messages split in parts",
- "publishedAt": "2026-11-13T02:56:45.496Z"
+ "version": "2.11.5",
+ "zip": "releases/slingoor-tracker-2.11.5.zip",
+ "sha256": "ff38e9995c4c0bcf5d0678ad1b6cfe9a172f691e42a7bcc83271c3c104ed20ab",
+ "notes": "v2.11.5: 15 more wallets (t34-t48); a trader cold 7 days in a row is removed (you're told, with his wallet); pretend-wallet pricing spread out for dozens of traders",
+ "publishedAt": "2026-11-13T03:07:10.761Z"
 }
