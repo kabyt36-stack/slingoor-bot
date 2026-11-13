@@ -1,7 +1,7 @@
 {
- "version": "2.11.25",
- "zip": "releases/slingoor-tracker-2.11.25.zip",
- "sha256": "d44c682e8ea12e4cc9bf84b7d1c018da3f21d4c76641faf0031c63cf54e294f4",
- "notes": "v2.11.25: growth sizing — every buy at least 0.08 SOL or 25% of that wallet's SOL (buys grow with the wallet, max 50%); refills top side wallets up to a full buy",
- "publishedAt": "2026-11-13T16:48:35.168Z"
+ "version": "2.11.26",
+ "zip": "releases/slingoor-tracker-2.11.26.zip",
+ "sha256": "c691a752f4fecefe83ab0050b2625de27b6bcd6d13ab1e2b9960b690b52c2a4e",
+ "notes": "",
+ "publishedAt": "2026-11-13T18:13:20.668Z"
 }
