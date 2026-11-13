@@ -1,7 +1,7 @@
 {
- "version": "2.11.12",
- "zip": "releases/slingoor-tracker-2.11.12.zip",
- "sha256": "2e5c106a6407a223ee74b3245d72266636aea61e48cc9c297071c63bb6de2472",
- "notes": "v2.11.12: daily goal 1 SOL — once today's closed trades made 1 SOL, no new buys until midnight (coins held still sell); /daygoal",
- "publishedAt": "2026-11-13T11:49:23.501Z"
+ "version": "2.11.13",
+ "zip": "releases/slingoor-tracker-2.11.13.zip",
+ "sha256": "fb3272b75e7c8375ee2c54d5946643f41d44b6c28468274a78ed6716d8415cc6",
+ "notes": "v2.11.13: daily goal grows 0.5 SOL every day (1 today, 1.5 tomorrow, 2 ...)",
+ "publishedAt": "2026-11-13T12:04:41.013Z"
 }
