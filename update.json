@@ -1,7 +1,7 @@
 {
- "version": "2.11.23",
- "zip": "releases/slingoor-tracker-2.11.23.zip",
- "sha256": "1f05a47b81eacb0ea06d0543338fcedbd1aa0cb08904cbfdda329c1fbb92cb1b",
- "notes": "v2.11.23: dev check — a coin whose dev wallet never traded before: main wallet skips it, side wallets get out fast (+10%..+25%); learns rug rates by dev kind; cooks only when the coin made money AND your day is up",
- "publishedAt": "2026-11-13T15:38:46.393Z"
+ "version": "2.11.24",
+ "zip": "releases/slingoor-tracker-2.11.24.zip",
+ "sha256": "29fe5470e1cececc0c77efc026e106d6c61060c709f1e9f7571846d160dfbdf0",
+ "notes": "v2.11.24: fast traders (dilly) copied again, but only buys they still hold 30s later — their scalps are skipped",
+ "publishedAt": "2026-11-13T16:17:46.481Z"
 }
