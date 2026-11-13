@@ -1,7 +1,7 @@
 {
- "version": "2.11.7",
- "zip": "releases/slingoor-tracker-2.11.7.zip",
- "sha256": "5dbe3141daf17d17ca5bbb0d4f5a4ad963f662a6611c3d374be8528569a178af",
- "notes": "v2.11.7: t1 is now henry",
- "publishedAt": "2026-11-13T03:30:23.579Z"
+ "version": "2.11.9",
+ "zip": "releases/slingoor-tracker-2.11.9.zip",
+ "sha256": "6ca573cf126a129c27a06ef368a0028013c478be981caff745760a424fd238d1",
+ "notes": "v2.11.9: sweet spot always on + adapting, decu on (normal size, farmer), quieter alerts, and 10 side wallets (paper: main 0.1 + 10 sides random, 3 SOL)",
+ "publishedAt": "2026-11-13T03:48:14.045Z"
 }
