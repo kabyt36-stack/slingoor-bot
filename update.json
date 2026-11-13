@@ -1,7 +1,7 @@
 {
- "version": "2.10.1",
- "zip": "releases/slingoor-tracker-2.10.1.zip",
- "sha256": "011d3ff93bb5009daf53baf79b0c1dbced107992a1a99162471219a54c4ce31f",
- "notes": "v2.10.1: auto-rotate on each trader's last 30 trades (copied when clearly profitable, dropped when he lost more than he won, break-even stays; new wallets wait 2 days), every wallet incl. sling, cupsey, devs and the rug test is in it; cupsey back with 100+ holders and under $40k market cap",
- "publishedAt": "2026-11-13T00:34:10.917Z"
+ "version": "2.11.0",
+ "zip": "releases/slingoor-tracker-2.11.0.zip",
+ "sha256": "11e4e21fd35fca869b91989b4998f04a99e99367bc1593913df15bff07f5d082",
+ "notes": "v2.11.0: buy 1.5x when 2+ traders are in or it's his big bet, 0.5x on his test buys; skip a trader's losing hours; per-trader best exit from the pretend wallets (sell half just before he usually sells, 1.5x, 2x, or ride the top)",
+ "publishedAt": "2026-11-13T01:06:17.853Z"
 }
