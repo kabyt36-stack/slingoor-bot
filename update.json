@@ -1,7 +1,7 @@
 {
- "version": "2.11.15",
- "zip": "releases/slingoor-tracker-2.11.15.zip",
- "sha256": "7e4f72178886fa1f6ede31a9bf12ab1c77d0db91e41964d0a9c7b1c34ba52441",
- "notes": "v2.11.15: proven tier (between hot and neutral, 3/4 size); paper default main 0.1 + 3 sides 0.3 each; paper sells on the pump.fun curve when Jupiter has no route (no more stuck paper sells)",
- "publishedAt": "2026-11-13T12:28:15.452Z"
+ "version": "2.11.16",
+ "zip": "releases/slingoor-tracker-2.11.16.zip",
+ "sha256": "f4a89d8c3e0065170584a434222234d9ccf6e2671b81c7a1e054e4f1ea0cb9c4",
+ "notes": "v2.11.16: runner chance — learns which wallets' coins run 2x+, combines every tracked wallet in a coin, corrects itself from what happened; bigger buy when likely, smaller when not; /ghosts shows each trader's runner %",
+ "publishedAt": "2026-11-13T12:58:09.406Z"
 }
