@@ -1,7 +1,7 @@
 {
- "version": "2.11.24",
- "zip": "releases/slingoor-tracker-2.11.24.zip",
- "sha256": "29fe5470e1cececc0c77efc026e106d6c61060c709f1e9f7571846d160dfbdf0",
- "notes": "v2.11.24: fast traders (dilly) copied again, but only buys they still hold 30s later — their scalps are skipped",
- "publishedAt": "2026-11-13T16:17:46.481Z"
+ "version": "2.11.25",
+ "zip": "releases/slingoor-tracker-2.11.25.zip",
+ "sha256": "d44c682e8ea12e4cc9bf84b7d1c018da3f21d4c76641faf0031c63cf54e294f4",
+ "notes": "v2.11.25: growth sizing — every buy at least 0.08 SOL or 25% of that wallet's SOL (buys grow with the wallet, max 50%); refills top side wallets up to a full buy",
+ "publishedAt": "2026-11-13T16:48:35.168Z"
 }
