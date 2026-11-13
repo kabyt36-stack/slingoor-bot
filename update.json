@@ -1,7 +1,7 @@
 {
- "version": "2.9.12",
- "zip": "releases/slingoor-tracker-2.9.12.zip",
- "sha256": "42f53654a0bd014e890b0fe7ca591ca4117a16575edf9e5df46252a548b128f2",
- "notes": "v2.9.12: market caps per trader — pretend wallets record the market cap of every coin; /ghosts and /sweetspot show where each trader makes money; /sweetspot on (off by default) only copies each trader in his winning ranges",
- "publishedAt": "2026-11-12T23:50:50.444Z"
+ "version": "2.10.0",
+ "zip": "releases/slingoor-tracker-2.10.0.zip",
+ "sha256": "5d6a73ec93c47d83b77b6e91035c742eb7dc27ba02e4cab3e50c88e681fbfb6d",
+ "notes": "v2.10.0: auto-rotate — your wallets copy whoever is hot (pretend-wallet results, last 24h), a copied trader who turns red gets a day, new wallets wait 2 days; /rotate",
+ "publishedAt": "2026-11-13T00:15:43.607Z"
 }
