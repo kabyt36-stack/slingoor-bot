@@ -1,7 +1,7 @@
 {
- "version": "2.11.6",
- "zip": "releases/slingoor-tracker-2.11.6.zip",
- "sha256": "971037c74bcae15325dff979d2b4a903fed11938d0c42c6efabbc4bf83c659a4",
- "notes": "v2.11.6: a trader who made you 1+ SOL in total is never removed, even after a cold week",
- "publishedAt": "2026-11-13T03:18:29.127Z"
+ "version": "2.11.7",
+ "zip": "releases/slingoor-tracker-2.11.7.zip",
+ "sha256": "5dbe3141daf17d17ca5bbb0d4f5a4ad963f662a6611c3d374be8528569a178af",
+ "notes": "v2.11.7: t1 is now henry",
+ "publishedAt": "2026-11-13T03:30:23.579Z"
 }
