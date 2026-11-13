@@ -1,7 +1,7 @@
 {
- "version": "2.11.21",
- "zip": "releases/slingoor-tracker-2.11.21.zip",
- "sha256": "d17a328b6cf5badb61280f2997123795c999e18b6ebe823d0bb6e6073b7fc459",
- "notes": "v2.11.21: side wallets take +50% to +100% (armed at 1.5x, sell all at 2x or a 10% pullback); pretend side wallets do the same",
- "publishedAt": "2026-11-13T14:39:41.699Z"
+ "version": "2.11.22",
+ "zip": "releases/slingoor-tracker-2.11.22.zip",
+ "sha256": "81b0ce281da92caa70fe0db2b664a7723799beaae2310d7680f83c97e4c2dee9",
+ "notes": "v2.11.22: cooks only when the coin made money (+profit shown; 10+ SOL cooks show your PnL today); traders too fast to copy (usually out within 2 min) or whose real/paper copies lost over their last 10+ coins are not copied",
+ "publishedAt": "2026-11-13T15:27:47.906Z"
 }
