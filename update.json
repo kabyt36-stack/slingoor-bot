@@ -1,7 +1,7 @@
 {
- "version": "2.11.16",
- "zip": "releases/slingoor-tracker-2.11.16.zip",
- "sha256": "f4a89d8c3e0065170584a434222234d9ccf6e2671b81c7a1e054e4f1ea0cb9c4",
- "notes": "v2.11.16: runner chance — learns which wallets' coins run 2x+, combines every tracked wallet in a coin, corrects itself from what happened; bigger buy when likely, smaller when not; /ghosts shows each trader's runner %",
- "publishedAt": "2026-11-13T12:58:09.406Z"
+ "version": "2.11.18",
+ "zip": "releases/slingoor-tracker-2.11.18.zip",
+ "sha256": "5267282353620ea5cb663e6912d494c1e56b864099e26ba265870e1bc8bde417",
+ "notes": "v2.11.18: watch-list traders followed (jackduval, kimchi, million, cyberleek); kimchi always copied at full size (no wait), 99% runner chance, and every wallet holds his coins: 25% off at 2x, rest when he sells, -75% stop loss",
+ "publishedAt": "2026-11-13T14:09:44.250Z"
 }
