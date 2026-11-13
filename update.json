@@ -1,7 +1,7 @@
 {
- "version": "2.11.1",
- "zip": "releases/slingoor-tracker-2.11.1.zip",
- "sha256": "093d36497100a5c6d9c15c07cc1c299ae39ea394252009c82f5e0f2a29b6a4ec",
- "notes": "v2.11.1: wallets sent tonight can be copied right away (no 2-day wait); new wallets after that wait 2 days",
- "publishedAt": "2026-11-13T02:13:27.450Z"
+ "version": "2.11.2",
+ "zip": "releases/slingoor-tracker-2.11.2.zip",
+ "sha256": "7bad00351bbeff7d458b60d666df301bf3e203705d49dd61d1541e21ce054d91",
+ "notes": "v2.11.2: hot / neutral / cold traders — hot full size and first in line, neutral (break-even or up) half size with 3 open slots kept for hot ones, cold not copied; neutral that keeps winning turns hot",
+ "publishedAt": "2026-11-13T02:22:11.872Z"
 }
