@@ -1,7 +1,7 @@
 {
- "version": "2.11.20",
- "zip": "releases/slingoor-tracker-2.11.20.zip",
- "sha256": "cc703589f4d27410d0b8fbb4aca7de5b3e20117b1780a827510380ee33ec4cb3",
- "notes": "v2.11.20: main wallets hold likely runners (25% off at 1.5x) and kimchi's coins (25% at 2x); side wallets keep their quick +25% profit; coins that run 2x+ within 6h of a trader's buy count as his runner even if he sold first",
- "publishedAt": "2026-11-13T14:26:26.039Z"
+ "version": "2.11.21",
+ "zip": "releases/slingoor-tracker-2.11.21.zip",
+ "sha256": "d17a328b6cf5badb61280f2997123795c999e18b6ebe823d0bb6e6073b7fc459",
+ "notes": "v2.11.21: side wallets take +50% to +100% (armed at 1.5x, sell all at 2x or a 10% pullback); pretend side wallets do the same",
+ "publishedAt": "2026-11-13T14:39:41.699Z"
 }
