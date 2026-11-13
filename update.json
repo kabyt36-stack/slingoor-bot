@@ -1,7 +1,7 @@
 {
- "version": "2.11.5",
- "zip": "releases/slingoor-tracker-2.11.5.zip",
- "sha256": "ff38e9995c4c0bcf5d0678ad1b6cfe9a172f691e42a7bcc83271c3c104ed20ab",
- "notes": "v2.11.5: 15 more wallets (t34-t48); a trader cold 7 days in a row is removed (you're told, with his wallet); pretend-wallet pricing spread out for dozens of traders",
- "publishedAt": "2026-11-13T03:07:10.761Z"
+ "version": "2.11.6",
+ "zip": "releases/slingoor-tracker-2.11.6.zip",
+ "sha256": "971037c74bcae15325dff979d2b4a903fed11938d0c42c6efabbc4bf83c659a4",
+ "notes": "v2.11.6: a trader who made you 1+ SOL in total is never removed, even after a cold week",
+ "publishedAt": "2026-11-13T03:18:29.127Z"
 }
