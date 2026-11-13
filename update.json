@@ -1,7 +1,7 @@
 {
- "version": "2.11.22",
- "zip": "releases/slingoor-tracker-2.11.22.zip",
- "sha256": "81b0ce281da92caa70fe0db2b664a7723799beaae2310d7680f83c97e4c2dee9",
- "notes": "v2.11.22: cooks only when the coin made money (+profit shown; 10+ SOL cooks show your PnL today); traders too fast to copy (usually out within 2 min) or whose real/paper copies lost over their last 10+ coins are not copied",
- "publishedAt": "2026-11-13T15:27:47.906Z"
+ "version": "2.11.23",
+ "zip": "releases/slingoor-tracker-2.11.23.zip",
+ "sha256": "1f05a47b81eacb0ea06d0543338fcedbd1aa0cb08904cbfdda329c1fbb92cb1b",
+ "notes": "v2.11.23: dev check — a coin whose dev wallet never traded before: main wallet skips it, side wallets get out fast (+10%..+25%); learns rug rates by dev kind; cooks only when the coin made money AND your day is up",
+ "publishedAt": "2026-11-13T15:38:46.393Z"
 }
