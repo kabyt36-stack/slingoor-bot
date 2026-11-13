@@ -1,7 +1,7 @@
 {
- "version": "2.11.2",
- "zip": "releases/slingoor-tracker-2.11.2.zip",
- "sha256": "7bad00351bbeff7d458b60d666df301bf3e203705d49dd61d1541e21ce054d91",
- "notes": "v2.11.2: hot / neutral / cold traders — hot full size and first in line, neutral (break-even or up) half size with 3 open slots kept for hot ones, cold not copied; neutral that keeps winning turns hot",
- "publishedAt": "2026-11-13T02:22:11.872Z"
+ "version": "2.11.3",
+ "zip": "releases/slingoor-tracker-2.11.3.zip",
+ "sha256": "061ff03dbad294abdc57a6737de8f097add94abd9388353c45b767e002d2541f",
+ "notes": "v2.11.3: new traders t1 + t2 followed (pretend wallets + auto-rotate), no 2-day wait",
+ "publishedAt": "2026-11-13T02:42:48.283Z"
 }
