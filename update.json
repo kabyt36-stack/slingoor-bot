@@ -1,7 +1,7 @@
 {
- "version": "2.11.9",
- "zip": "releases/slingoor-tracker-2.11.9.zip",
- "sha256": "6ca573cf126a129c27a06ef368a0028013c478be981caff745760a424fd238d1",
- "notes": "v2.11.9: sweet spot always on + adapting, decu on (normal size, farmer), quieter alerts, and 10 side wallets (paper: main 0.1 + 10 sides random, 3 SOL)",
- "publishedAt": "2026-11-13T03:48:14.045Z"
+ "version": "2.11.10",
+ "zip": "releases/slingoor-tracker-2.11.10.zip",
+ "sha256": "41450bf25e9a784fbf6bffddcd072bc8f3d24fa591e52e8d130ac5e77b7566b2",
+ "notes": "v2.11.10: reads the traders the wallet leaderboard bot sends (its feed file) and adds them as traders (lb_xxxx, max 10); pretend wallets watch them first and auto-rotate copies them only if they turn hot",
+ "publishedAt": "2026-11-13T03:57:27.669Z"
 }
