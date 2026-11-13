@@ -1,7 +1,7 @@
 {
- "version": "2.11.0",
- "zip": "releases/slingoor-tracker-2.11.0.zip",
- "sha256": "11e4e21fd35fca869b91989b4998f04a99e99367bc1593913df15bff07f5d082",
- "notes": "v2.11.0: buy 1.5x when 2+ traders are in or it's his big bet, 0.5x on his test buys; skip a trader's losing hours; per-trader best exit from the pretend wallets (sell half just before he usually sells, 1.5x, 2x, or ride the top)",
- "publishedAt": "2026-11-13T01:06:17.853Z"
+ "version": "2.11.1",
+ "zip": "releases/slingoor-tracker-2.11.1.zip",
+ "sha256": "093d36497100a5c6d9c15c07cc1c299ae39ea394252009c82f5e0f2a29b6a4ec",
+ "notes": "v2.11.1: wallets sent tonight can be copied right away (no 2-day wait); new wallets after that wait 2 days",
+ "publishedAt": "2026-11-13T02:13:27.450Z"
 }
