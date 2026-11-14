@@ -1,7 +1,7 @@
 {
- "version": "2.11.51",
- "zip": "releases/slingoor-tracker-2.11.51.zip",
- "sha256": "8c8b86109251d0e6391d9d033dd5caf7e26d600c221511918bbde407e835d026",
+ "version": "2.11.52",
+ "zip": "releases/slingoor-tracker-2.11.52.zip",
+ "sha256": "2f063a128f8ece8390e5f023f7ba346342e231ccfbb18cfa237ecb74308cf4bb",
  "notes": "",
- "publishedAt": "2026-11-14T18:39:26.084Z"
+ "publishedAt": "2026-11-14T19:05:45.000Z"
 }
