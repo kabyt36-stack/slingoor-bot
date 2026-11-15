@@ -1,7 +1,7 @@
 {
- "version": "2.12.0",
- "zip": "releases/slingoor-tracker-2.12.0.zip",
- "sha256": "8e396608a7223c2270f584a255a17e4522a0794b3abf433e059c0397fe26f88b",
- "notes": "new-pair sniper (paper, own wallet)",
- "publishedAt": "2026-11-15T15:54:35.449Z"
+ "version": "2.12.1",
+ "zip": "releases/slingoor-tracker-2.12.1.zip",
+ "sha256": "39f38f8a8dd12eb933ca17e819cfa1583563cb4ac54fbb41ce3c58a15c7456fd",
+ "notes": "sniper: wait for 2 checked buyers; short alerts",
+ "publishedAt": "2026-11-15T16:12:40.313Z"
 }
