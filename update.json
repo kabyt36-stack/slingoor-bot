@@ -1,7 +1,7 @@
 {
- "version": "2.12.1",
- "zip": "releases/slingoor-tracker-2.12.1.zip",
- "sha256": "39f38f8a8dd12eb933ca17e819cfa1583563cb4ac54fbb41ce3c58a15c7456fd",
- "notes": "sniper: wait for 2 checked buyers; short alerts",
- "publishedAt": "2026-11-15T16:12:40.313Z"
+ "version": "2.12.2",
+ "zip": "releases/slingoor-tracker-2.12.2.zip",
+ "sha256": "f62c59a1acb1e2e7475b319f666dc850ef55c62959d4ab5dfe9ef8d714d6ea58",
+ "notes": "sniper alerts like copy trading: Bought, cooks only",
+ "publishedAt": "2026-11-15T16:19:13.412Z"
 }
