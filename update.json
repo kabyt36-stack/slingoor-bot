@@ -1,7 +1,7 @@
 {
- "version": "2.11.61",
- "zip": "releases/slingoor-tracker-2.11.61.zip",
- "sha256": "a860cc8f9184707d4f73d079db9f31defce9105b76d2a4012f4f1831c0ed99f5",
- "notes": "nightly scan: coin book name index no longer grows without limit",
- "publishedAt": "2026-11-15T08:22:07.544Z"
+ "version": "2.12.0",
+ "zip": "releases/slingoor-tracker-2.12.0.zip",
+ "sha256": "8e396608a7223c2270f584a255a17e4522a0794b3abf433e059c0397fe26f88b",
+ "notes": "new-pair sniper (paper, own wallet)",
+ "publishedAt": "2026-11-15T15:54:35.449Z"
 }
