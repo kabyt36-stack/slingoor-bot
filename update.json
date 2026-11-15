@@ -1,7 +1,7 @@
 {
- "version": "2.12.3",
- "zip": "releases/slingoor-tracker-2.12.3.zip",
- "sha256": "06c27ba43232472fc3a333f2ab1aa4a1af0d1243e25f7ef0cf84c88e4eb9ac50",
- "notes": "sniper: serial devs + learns from rugs",
- "publishedAt": "2026-11-15T16:30:01.572Z"
+ "version": "2.12.4",
+ "zip": "releases/slingoor-tracker-2.12.4.zip",
+ "sha256": "5c95a4a54176e4410710c040f7a5920afe7b58bc8de40ba551afbeead516ea5a",
+ "notes": "sniper: dev launch history from pump.fun",
+ "publishedAt": "2026-11-15T16:37:10.856Z"
 }
