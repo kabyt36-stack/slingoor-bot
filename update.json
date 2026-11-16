@@ -1,7 +1,7 @@
 {
- "version": "2.12.9",
- "zip": "releases/slingoor-tracker-2.12.9.zip",
- "sha256": "ea05b3f78e398ada17ce416130eaff204aea2f12d57360a8eabd07ce890345b6",
- "notes": "",
- "publishedAt": "2026-11-15T19:09:18.187Z"
+ "version": "2.13.0",
+ "zip": "releases/slingoor-tracker-2.13.0.zip",
+ "sha256": "44122ab1fd5306bba2275c2f7d1eb1e244f70157fd7197f200d633b63bb90bcd",
+ "notes": "alerts only: copy trading + sniper off; 2x/3x/4x+ alerts (no rugs), hourly narratives, biggest coin at 12am/12pm",
+ "publishedAt": "2026-11-16T13:00:52.071Z"
 }
