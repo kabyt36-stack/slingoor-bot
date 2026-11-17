@@ -1,7 +1,7 @@
 {
- "version": "2.13.0",
- "zip": "releases/slingoor-tracker-2.13.0.zip",
- "sha256": "44122ab1fd5306bba2275c2f7d1eb1e244f70157fd7197f200d633b63bb90bcd",
- "notes": "alerts only: copy trading + sniper off; 2x/3x/4x+ alerts (no rugs), hourly narratives, biggest coin at 12am/12pm",
- "publishedAt": "2026-11-16T13:00:52.071Z"
+ "version": "2.14.0",
+ "zip": "releases/slingoor-tracker-2.14.0.zip",
+ "sha256": "b835e8ba39a9cf6898b8e58355d0aee0df31eac4b170be2d01f71dde01d774bb",
+ "notes": "copy these 18 devs only (paper): wait for real buying (+30% in 3 min) then a 20% dip; no motion = skip",
+ "publishedAt": "2026-11-17T19:43:07.027Z"
 }
